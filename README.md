@@ -76,7 +76,7 @@ Language (Code): Translated Text
 
 For example:
 ```
-Spanish: "The quick brown fox jumps over the lazy dog."
+Spanish: "El rápido zorro marrón salta sobre el perro perezoso."
 ```
 
 ---
